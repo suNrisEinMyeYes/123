@@ -1,0 +1,10 @@
+C:\Users\Артём\source\repos\MyPart\MyPart\obj\Debug\MyPart.csprojAssemblyReference.cache
+C:\Users\Артём\source\repos\MyPart\MyPart\obj\Debug\MyPart.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\MyPart\MyPart\bin\Debug\MyPart.exe.config
+C:\Users\Артём\source\repos\MyPart\MyPart\bin\Debug\MyPart.exe
+C:\Users\Артём\source\repos\MyPart\MyPart\bin\Debug\MyPart.pdb
+C:\Users\Артём\source\repos\MyPart\MyPart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Артём\source\repos\MyPart\MyPart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Артём\source\repos\MyPart\MyPart\obj\Debug\MyPart.csproj.CopyComplete
+C:\Users\Артём\source\repos\MyPart\MyPart\obj\Debug\MyPart.exe
+C:\Users\Артём\source\repos\MyPart\MyPart\obj\Debug\MyPart.pdb
